@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/resteasy-jaxrs-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/httpclient-4.2.6.jar" sourcepath="C:/Users/jjmartinez/.m2/repository/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/httpcore-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-core-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-databind-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-jaxrs-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-jaxrs-base-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-jaxrs-json-provider-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-mapper-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-module-jaxb-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jackson-xc-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/javax.el-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/javax.json-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jaxb-core-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jaxb-impl-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/jaxrs-api-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/resteasy-client-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/resteasy-jackson-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/resteasy-jaxb-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/RESTEasyLib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjmartinez/workspace/RaspberriContextBroker/lib/jssc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
